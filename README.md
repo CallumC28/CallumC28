@@ -17,6 +17,15 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 
 ### Other Tools  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+
+---
+
+## 📚 Currently Learning / Working On
+- Expanding my knowledge of **AI & Machine Learning concepts**  
+- Preparing for the **AWS Cloud Certification**  
+- Refining my **Movie Explorer** project to improve performance, UI, and features
+- Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
+
 ---
 
 ## 🚀 Highlighted Projects  
