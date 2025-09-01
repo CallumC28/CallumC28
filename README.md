@@ -51,8 +51,12 @@ When I’m not coding, you’ll find me:
 
 ## 📈 GitHub Stats  
 <p align = "center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=CallumC28&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallumC28&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=CallumC28&theme=dark&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallumC28&theme=dark&hide_border=true&layout=compact" />
+</p> 
 </p>
 
 ---
