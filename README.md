@@ -58,8 +58,6 @@ When I’m not coding, you’ll find me:
 - Bouldering  
 - Walking my dog  
 
-📧 **Email:** callumcummins28@gmail.com  
-
 ---
 
 ## 📈 GitHub Stats  
