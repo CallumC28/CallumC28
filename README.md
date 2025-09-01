@@ -48,7 +48,7 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 ## 📊 What Drives Me  
 ✔ Using AI/ML to deliver real-world impact  
 ✔ Designing intuitive UIs that make data easy to understand  
-✔ Continuous learning — from cloud technologies to advanced databases  
+✔ Continuous learning - from cloud technologies to advanced ML 
 
 ---
 
