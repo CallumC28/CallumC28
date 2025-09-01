@@ -59,6 +59,6 @@ When I’m not coding, you’ll find me:
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CallumC28/CallumC28/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<p align = "center">
+	<img src = "https://github.com/CallumC28/CallumC28/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
