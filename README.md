@@ -21,8 +21,8 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 
 ## 🚀 Highlighted Projects  
 
-- **[Gym Goer Web App](https://github.com/CallumC28/Gym-Goer-Web-App)**  
-  🏋️ Fitness tracker with AI-powered progress predictions (Phpml + SVR).  
+  <a href="https://github.com/CallumC28/Gym-Goer-Web-App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
 
 - **[Phishing Email Detector](https://github.com/CallumC28/Phishing-Email-Detector-In-Progress)**  
   🔒 BERT-powered phishing detection tool with Tkinter GUI.  
