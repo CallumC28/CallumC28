@@ -29,6 +29,9 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 
 <a href="https://github.com/CallumC28/face_recognition">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=face_recognition&theme=tokyonight" alt="GitHub Stats" />
+
+ <a href="https://github.com/CallumC28/Online-Grocery-Web-App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Online-Grocery-Web-App&theme=tokyonight" alt="GitHub Stats" />
 </p>
 	
 ---
