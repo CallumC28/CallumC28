@@ -20,16 +20,16 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 ---
 
 ## 🚀 Highlighted Projects  
-
+<p align="center">
   <a href="https://github.com/CallumC28/Gym-Goer-Web-App">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Gym-Goer-Web-App&theme=tokyonight" alt="GitHub Stats" />
 
-- **[Phishing Email Detector](https://github.com/CallumC28/Phishing-Email-Detector-In-Progress)**  
-  🔒 BERT-powered phishing detection tool with Tkinter GUI.  
+<a href="https://github.com/CallumC28/Flask_Phishing_Email_Detector">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Flask_Phishing_Email_Detector&theme=tokyonight" alt="GitHub Stats" />
 
-- **[Portfolio Website](https://github.com/CallumC28/callum-portfolio)** | [🌐 Live Demo](https://callum-portfolio.vercel.app/)  
-  🎨 Responsive personal portfolio built with Next.js, Tailwind CSS & Framer Motion.  
-
+<a href="https://github.com/CallumC28/face_recognition">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=face_recognition&theme=tokyonight" alt="GitHub Stats" />
+</p>
 ---
 
 ## 📊 What Drives Me  
