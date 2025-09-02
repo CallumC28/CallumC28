@@ -51,16 +51,6 @@ When I’m not coding, you’ll find me:
 
 ---
 
-## 📈 GitHub Stats  
-<p align = "center">
-
-  <img src="https://streak-stats.demolab.com?user=CallumC28&theme=dark&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallumC28&theme=dark&hide_border=true&layout=compact" />
-</p> 
-
----
-
 ## 🐍 Contributions Graph
 <p align = "center">
 	<img src = "https://github.com/CallumC28/CallumC28/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
