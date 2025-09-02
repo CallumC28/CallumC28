@@ -8,8 +8,11 @@ Check out my [coding portfolio!](https://callum-portfolio.vercel.app/)
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-cummins-330218362/)
+## 📚 Currently Learning / Working On
+- Expanding my knowledge of **AI & Machine Learning concepts**  
+- Preparing for the **AWS Cloud & Azure AI Certifications**  
+- Refining my **Movie Explorer** project to improve performance, UI, and features
+- Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
 
 ---
 
@@ -28,14 +31,6 @@ Check out my [coding portfolio!](https://callum-portfolio.vercel.app/)
 
 ---
 
-## 📚 Currently Learning / Working On
-- Expanding my knowledge of **AI & Machine Learning concepts**  
-- Preparing for the **AWS Cloud & Azure AI Certifications**  
-- Refining my **Movie Explorer** project to improve performance, UI, and features
-- Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
-
----
-
 ## 📊 What Drives Me  
 ✔ Using AI/ML to deliver real-world impact  
 ✔ Designing intuitive UIs that make data easy to understand  
@@ -48,6 +43,11 @@ When I’m not coding, you’ll find me:
 - Watching football  
 - Bouldering  
 - Walking my dog  
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-cummins-330218362/)
 
 ---
 
