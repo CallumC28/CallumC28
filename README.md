@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 I'm Callum</h1>
 
-#💫 About Me:
+## 💫 About Me:
 🎓 First-Class Computer Science graduate passionate about building **user-focused, data-driven solutions**.  
 I enjoy turning complex problems into clean, efficient code and crafting applications that are both functional and visually engaging.  
+
+Check out my [coding portfolio!](https://callum-portfolio.vercel.app/)
 
 ---
 
@@ -11,7 +13,7 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 
 ---
 
-## 💻 Tech Stack  
+# 💻 Tech Stack  
 ### Languages & Frameworks  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tkinter](https://img.shields.io/badge/tkinter-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)  
 
