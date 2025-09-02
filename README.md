@@ -1,7 +1,13 @@
-# 👋 Hi, I’m Callum
+<h1 align="center">Hi 👋 I'm Callum</h1>
 
+#💫 About Me:
 🎓 First-Class Computer Science graduate passionate about building **user-focused, data-driven solutions**.  
 I enjoy turning complex problems into clean, efficient code and crafting applications that are both functional and visually engaging.  
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-cummins-330218362/)
 
 ---
 
@@ -26,23 +32,6 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 - Refining my **Movie Explorer** project to improve performance, UI, and features
 - Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
 
----
-
-## 🚀 Highlighted Projects  
-<p align="center">
-  <a href="https://github.com/CallumC28/Gym-Goer-Web-App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Gym-Goer-Web-App&theme=tokyonight" alt="GitHub Stats" />
-
-<a href="https://github.com/CallumC28/Flask_Phishing_Email_Detector">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Flask_Phishing_Email_Detector&theme=tokyonight" alt="GitHub Stats" />
-
-<a href="https://github.com/CallumC28/face_recognition">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=face_recognition&theme=tokyonight" alt="GitHub Stats" />
-
- <a href="https://github.com/CallumC28/Online-Grocery-Web-App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=CallumC28&repo=Online-Grocery-Web-App&theme=tokyonight" alt="GitHub Stats" />
-</p>
-	
 ---
 
 ## 📊 What Drives Me  
