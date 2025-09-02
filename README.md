@@ -22,7 +22,7 @@ I enjoy turning complex problems into clean, efficient code and crafting applica
 
 ## 📚 Currently Learning / Working On
 - Expanding my knowledge of **AI & Machine Learning concepts**  
-- Preparing for the **AWS Cloud Certification**  
+- Preparing for the **AWS Cloud & Azure AI Certifications**  
 - Refining my **Movie Explorer** project to improve performance, UI, and features
 - Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
 
