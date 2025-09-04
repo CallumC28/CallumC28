@@ -11,7 +11,7 @@ Check out my [coding portfolio!](https://callum-portfolio.vercel.app/)
 ## 📚 Currently Learning / Working On
 - Expanding my knowledge of **AI & Machine Learning concepts**  
 - Preparing for the **AWS Cloud & Azure AI Certifications**  
-- Refining my **Movie Explorer** project to improve performance, UI, and features
+- Learning a bit of C#
 - Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
 
 ---
