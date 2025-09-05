@@ -4,7 +4,7 @@
 🎓 First-Class Computer Science graduate passionate about building **user-focused, data-driven solutions**.  
 I enjoy turning complex problems into clean, efficient code and crafting applications that are both functional and visually engaging.  
 
-Check out my [coding portfolio!](https://callum-portfolio.vercel.app/)
+Check out my **[Coding Portfolio!](https://callum-portfolio.vercel.app/)**
 
 ---
 
