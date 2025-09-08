@@ -38,14 +38,6 @@ Check out my **[Coding Portfolio!](https://callum-portfolio.vercel.app/)**
 
 ---
 
-## ⚽ Outside of Coding  
-When I’m not coding, you’ll find me:  
-- Watching football  
-- Bouldering  
-- Walking my dog  
-
----
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-cummins-330218362/)
 
