@@ -31,19 +31,5 @@ Check out my **[Coding Portfolio!](https://callum-portfolio.vercel.app/)**
 
 ---
 
-## 📊 What Drives Me  
-✔ Using AI/ML to deliver real-world impact  
-✔ Designing intuitive UIs that make data easy to understand  
-✔ Continuous learning - from cloud technologies to advanced ML 
-
----
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-cummins-330218362/)
-
----
-
-## 🐍 Contributions Graph
-<p align = "center">
-	<img src = "https://github.com/CallumC28/CallumC28/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
