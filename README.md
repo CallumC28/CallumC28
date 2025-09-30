@@ -12,7 +12,7 @@ Check out my **[Coding Portfolio!](https://callum-portfolio.vercel.app/)**
 - Expanding my knowledge of **AI & Machine Learning concepts**  
 - Preparing for the **AWS Cloud & Azure AI Certifications**  
 - Learning a bit of **C#**
-- Exploring **sckit-learn & Pytorch** libraries particularly on GPU acceleration
+- Exploring **sckit-learn & Pytorch** libraries
 
 ---
 
